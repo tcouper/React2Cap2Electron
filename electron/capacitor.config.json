@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "r2cap2e",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build",
+  "cordova": {}
+}
